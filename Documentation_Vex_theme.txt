@@ -1,0 +1,9 @@
+Documentation for Vex theme.
+
+https://docs.gethugothemes.com/vex/homepage/
+
+How to create a full-screen hero image? Instead of the Banner section.
+
+Slick Carousel
+https://kenwheeler.github.io/slick/
+
