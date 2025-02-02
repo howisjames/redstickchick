@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "/"
+baseurl = "https://redstickchick.com"
 title = "Red Stick Chick"
 theme = "vex-hugo"
 # post excerpt
