@@ -1,126 +1,143 @@
+
+
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Make Special Events Memorable"
+  content: "Have you seen the movie **27 Dresses**? Years ago I served as a bridesmaid in 13 weddings, and more recently I've helped my friends carry out their own daughter's engagement parties and receptions. Let me help with your special event!"
+  image: "images/showcase/place-setting01.JPG"
   button:
     enable: true
-    label: "Browse All Products"
-    link: "products/"
+    label: "Reach Out to Me"
+    link: "contact/"
 
 ############################# Feature ############################
+# icons file:///home/jamestaylor/Dropbox/github/redstickchick/themes/vex-hugo/static/plugins/themefisher-font/demo.html
+
 features:
-  enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  enable : true
+  title : "Don't Pull Your Hair Out... I Can Help!"
+  image : "images/showcase/charcuterie01.JPG"
 
-  # feature at the left of the image
   left_side:
-    # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    # feature item loop 1
+    - title: "Event Coordination"
+      icon: "tf-ion-android-hand"
+      content: "Reach out early so I can help plan and carry-out your event."
 
-      # feature item loop
+      # feature item loop 2
     - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      icon: " tf-ion-android-favorite"
+      content: "Let's host an event with class! I'll help you do it efficiently."
 
-      # feature item loop
-    - title: "Easy Pricing"
+      # feature item loop 3
+    - title: "Up-Front Pricing"
       icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-  # feature at the right of the image
+      content: "Join me for a free consult. We'll discuss what you have in mind, your timeframe and budget."
+    
   right_side:
-    # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    # feature item loop 1
+    - title: "Floral & Decor"
+      icon: "tf-ion-ios-flower-outline"
+      content: "I can provide beautiful floral arrangements and assist with decor for your special event."
 
-      # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # feature item loop 2
+    - title: "Charcuterie"
+      icon: "tf-ion-android-restaurant"
+      content: "Let me build a fabulous charcuterie board on-site for your event. "
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      # feature item loop 3
+    - title: "Guest Invites"
+      icon: "tf-ion-chatbubbles"
+      content: "Is it a limited guest list? I can craft super-cute handmade invitations, thank-you notes, or menus for your event."
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/meredith-working-01.JPG"
+  title: "Creativity is my jam!"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
-
-############################# About Product #######################
-about_product:
+    "I love helping friends and families to enjoy beautiful and memorable special events. Whether you're planning a wedding or engagement party, graduation or retirement celebration, or one of those milepost birthday parties, I'll help you make it special. <br> <br>
+    I have a knack for making simple ingredients extraordinary. With reasonable prep time and some planning, we can stretch your budget to create an event you'll love."
+    
+############################# About Services #######################
+about_services:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Our Services Include.."
   items:
-    # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+    # about product item loop 1
+    - image: "images/showcase/decor01.JPG"
+      title: "Special Event Assistance"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Think of me as an adjunct to your event planning team. I can assist with layout, food and beverage placement, seating arrangement, and decor."
       button:
         enable: false
         label: "Check Features"
         link: "#/"
 
-    # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+    # about product item loop 2
+    - image: "images/showcase/floral-07.JPG"
+      title: "Floral and Decor"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Table centerpieces, corsages, stage or photo backgrounds, and specialty arrangements are among the floral arrangements I can provide."
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+    # about product item loop 3
+    - image: "images/showcase/graphic-arts-invitations.JPG"
+      title: "Hand crafted paper goods"
+      content:
+        "I love creating one-of-a-kind invitation or thank-you cards, and gift wrapping."
       button:
         enable: false
         label: "Check Features"
         link: "#/"
 
-#################################### Products ########################
-products:
+    # about product item loop 4
+    - image: "images/showcase/place-setting-05.jpg"
+      title: "Elegant Dining"
+      content:
+        "Let me help you arrange your fine china - or rent some for your event - to create elegant place settings."
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+        
+#################################### Services ########################
+services:
   enable: true
-  title: "Checkout Our All Products"
+  title: "Services image slider should appear here..."
+
+############################## Testimonial ##########################
+
+testimonial:
+  enable: true
+  title: "Testimonials"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Johanna"
+      designation: "Mother of the Bride"
+      image: "images/testimonials/chick1.png"
+      content: "Meredith was indispensable and creative in assisting with the food and decor of my daughter's engagement party and wedding reception. Both events were beautiful, the charcuterie boards delicious and impressive, and I received numerous compliments from our guests."
+
+    # testimonial item loop
+    - name: "Customer Two"
+      designation: "Job Title"
+      image: "images/testimonials/chick2.png"
+      content: "Our party was a memorable event in large part because of the proactive service, creativity, and cost effectiveness of Meredith's charcuterie boards and floral decor. My husband and I were thrilled with the event and highly recommend Meredith for your memorable events."
+
+    # testimonial item loop
+    - name: "Customer Three"
+      designation: "Job Title"
+      image: "images/testimonials/chick3.png"
+      content: "Meredith adds such a caring and empathetic touch to all of her work. We were thoroughly satisfied and impressed with the floral designs, decor, and event layout guidance she provided as we celebrated my daughter's graduation. You can't go wrong hiring Meredith for your event."
+
 
 ################################## Subscription ###################
 subscription:
   enable: true
   bg_image: "images/call-to-action.jpg"
-  title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  title: "Contact Meredith"
+  content: "I look forward to discussing your special event needs."
   placeholder: "Your Email Address Here"
-
-############################## Testimonial ##########################
-testimonial:
-  enable: true
-  title: "Watch Review"
-  testimonial_item:
-    # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-
-    # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-
-    # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

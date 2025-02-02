@@ -1,19 +1,19 @@
 ################################### Custom Configuration ############################
-
+# theme source https://github.com/themefisher/vex-hugo
 # look in config/_default/ for Title, Base URL, etc.
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/rsc-logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Events, flowers and nibbles by Meredith"
+author = "Meredith Taylor"
 # currency
 currency = "$"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
-
+blog = "blog/"
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -51,7 +51,7 @@ preloader = "" # use .png , .svg or .gif format
 
 # Snipcart
 [params.snipcart]
-enable = true
+enable = false
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
