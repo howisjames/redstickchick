@@ -3,7 +3,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Make Special Events Memorable"
+  title: "Make Your Special Events Memorable"
   content: "Have you seen the movie **27 Dresses**? Years ago I served as a bridesmaid in 13 weddings, and more recently I've helped my friends carry out their own daughter's engagement parties and receptions. Let me help with your special event!"
   image: "images/showcase/place-setting01.JPG"
   button:
@@ -17,7 +17,7 @@ banner:
 features:
   enable : true
   title : "Don't Pull Your Hair Out... I Can Help!"
-  image : "images/showcase/charcuterie01.JPG"
+  image : "images/showcase/charcuterie06.JPG"
 
   left_side:
     # feature item loop 1
@@ -63,7 +63,7 @@ promo:
 ############################# About Services #######################
 about_services:
   enable: true
-  title: "Our Services Include.."
+  title: "Services Include.."
   items:
     # about product item loop 1
     - image: "images/showcase/decor01.JPG"

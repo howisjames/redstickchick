@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Services Include... on Red Stick Chick</title>
+    <link>https://redstickchick.com/services/</link>
+    <description>Recent content in My Services Include... on Red Stick Chick</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://redstickchick.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handmade Paper Goods</title>
+      <link>https://redstickchick.com/services/service-4/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redstickchick.com/services/service-4/</guid>
+      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Floral Decor</title>
+      <link>https://redstickchick.com/services/service-3/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redstickchick.com/services/service-3/</guid>
+      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Charcuterie</title>
+      <link>https://redstickchick.com/services/service-2/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redstickchick.com/services/service-2/</guid>
+      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Event Decor</title>
+      <link>https://redstickchick.com/services/service-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://redstickchick.com/services/service-1/</guid>
+      <description>&lt;p&gt;Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
