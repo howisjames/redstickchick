@@ -2,7 +2,7 @@
 title: "Event Decor"
 date: 2025-01-01
 images: 
-  - "images/showcase/decor01.JPG"
+  - "images/showcase/decor01b.jpg"
   - "images/showcase/floral-arbor-02.JPG"
   - "images/showcase/balloon-selfie-station-01.JPG"
   - "images/showcase/place-setting01.JPG"
@@ -11,8 +11,8 @@ images:
 description : "Decor includes floral arrangements, balloons, linens, flatware, etc."
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: ""
+discount_price: ""
 
 # product variation
 colors : ["black","white","gray"]
@@ -24,4 +24,4 @@ button_link: ""
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Describe what I've created as decorations for special events.

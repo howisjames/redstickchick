@@ -10,8 +10,8 @@ images:
 description : "One-of-a-kind, colorful cards, gift wrapping, and paper goods."
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: ""
+discount_price: ""
 
 # product variation
 colors : ["black","white","gray"]
@@ -23,4 +23,4 @@ button_link: ""
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+I like to doodle. And I like to create one-of-a-kind cards and paper goods that convey a warmth not possible from manufactured items. Let's discuss how I can help convey your messages to friends with that extra personal touch.

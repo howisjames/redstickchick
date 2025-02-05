@@ -13,8 +13,8 @@ images:
 description : "Economical yet beautiful floral arrangements enliven place seetings."
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: ""
+discount_price: ""
 
 # product variation
 colors : ["black","white","gray"]
@@ -26,4 +26,4 @@ button_link: ""
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Flowers make the occasion special. I can help you do it economically, so that you can truly enjoy hosting your event.

@@ -19,7 +19,7 @@ favicon = "images/favicon.png"
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/rsc-logo.png"
+logo = "images/rsc-logo2.png"
 logo_width = "100px"
 # Meta data
 description = "Events, flowers and nibbles by Meredith"

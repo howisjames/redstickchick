@@ -17,7 +17,7 @@ banner:
 features:
   enable : true
   title : "Don't Pull Your Hair Out... I Can Help!"
-  image : "images/showcase/charcuterie06.JPG"
+  image : "images/showcase/charcuterie07.JPG"
 
   left_side:
     # feature item loop 1
@@ -107,7 +107,7 @@ about_services:
 #################################### Services ########################
 services:
   enable: true
-  title: "Services image slider should appear here..."
+  title: "Services"
 
 ############################## Testimonial ##########################
 
