@@ -15,7 +15,7 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 disableLanguages = [true] # disable language from here
-favicon = "images/favicon.png"
+favicon = "images/favicon.ico"
 
 ########################### Default parameters ##########################
 [params]
@@ -27,7 +27,7 @@ author = "Meredith Taylor"
 # currency
 currency = "$"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "#" # contact form works with https://formspree.io.  $120 per year
 
 # unsafe html
 [markup.goldmark.renderer]

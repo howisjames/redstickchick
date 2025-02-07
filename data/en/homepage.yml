@@ -17,7 +17,7 @@ banner:
 features:
   enable : true
   title : "Don't Pull Your Hair Out... I Can Help!"
-  image : "images/showcase/charcuterie07.JPG"
+  image : "images/showcase/charcuterie07.jpg"
 
   left_side:
     # feature item loop 1
