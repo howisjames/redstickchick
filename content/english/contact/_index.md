@@ -1,14 +1,14 @@
 ---
 
 title: "Contact"
-description : "Contact Meredith for a free consultation."
+description : "Contact Meredith for a consultation."
 
 office:
   title : "Meredith Taylor"
-  mobile : "(225) 421-9038"
-  email : "meretaylor@zoho.com"
+  mobile : ""
+  email : ""
   location : "Baton Rouge, Louisiana"
-  content : "Reach out to me for a complimentary consultation."
+  content : "Reach out to me for a consultation."
 
 # opening hour
 

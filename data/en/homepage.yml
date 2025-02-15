@@ -4,8 +4,8 @@
 banner:
   enable: true
   title: "Make Your Special Events Memorable"
-  content: "Have you seen the movie **27 Dresses**? Years ago I served as a bridesmaid in 13 weddings, and more recently I've helped my friends carry out their own daughter's engagement parties and receptions. Let me help with your special event!"
-  image: "images/showcase/place-setting01.JPG"
+  content: "Have you seen the movie **27 Dresses**? Years ago I served as a bridesmaid in 13 weddings until my own, and more recently I’ve helped friends carry out their own daughter’s engagement parties and receptions.  My mom is an interior designer, and I have come to have a passion and eye for beautiful spaces and a love for putting my creativity to use for others. Let me help turn your special occasion into an extraordinary celebration!"
+  image: "images/hero-image.jpg"
   button:
     enable: true
     label: "Reach Out to Me"
@@ -28,28 +28,28 @@ features:
       # feature item loop 2
     - title: "Elegant Design"
       icon: " tf-ion-android-favorite"
-      content: "Let's host an event with class! I'll help you do it efficiently."
+      content: "Looking to host an event with class?  Let me help you bring your vision to life creating an elegant experience for all."
 
       # feature item loop 3
-    - title: "Up-Front Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Join me for a free consult. We'll discuss what you have in mind, your timeframe and budget."
+    - title: "Consultation"
+      icon: "tf-ion-chatbubbles"
+      content: "Join me for a consultation. We’ll discuss what you have in mind, your time-frame and budget.."
     
   right_side:
     # feature item loop 1
     - title: "Floral & Decor"
       icon: "tf-ion-ios-flower-outline"
-      content: "I can provide beautiful floral arrangements and assist with decor for your special event."
+      content: "My passion is to personalize and elevate your event, starting with small floral arrangements to themed decor."
 
       # feature item loop 2
     - title: "Charcuterie"
       icon: "tf-ion-android-restaurant"
-      content: "Let me build a fabulous charcuterie board on-site for your event. "
+      content: "Whether a girlfriends get-together, a formal guest event, or tailgating with a theme, let  me build a fabulous charcuterie board on-site for your event. Social grazing adds to the fun!"
 
       # feature item loop 3
-    - title: "Guest Invites"
-      icon: "tf-ion-chatbubbles"
-      content: "Is it a limited guest list? I can craft super-cute handmade invitations, thank-you notes, or menus for your event."
+    - title: "Special Party Gifts"
+      icon: "tf-gift2"
+      content: "I love creating one-of-a-kind gifts for birthday party favors, wedding guests, gift baskets and more."
 
 ############################# promo ############################
 promo:
@@ -57,19 +57,19 @@ promo:
   image: "images/meredith-working-01.JPG"
   title: "Creativity is my jam!"
   content:
-    "I love helping friends and families to enjoy beautiful and memorable special events. Whether you're planning a wedding or engagement party, graduation or retirement celebration, or one of those milepost birthday parties, I'll help you make it special. <br> <br>
-    I have a knack for making simple ingredients extraordinary. With reasonable prep time and some planning, we can stretch your budget to create an event you'll love."
+    "**I love helping friends and families to enjoy beautiful and memorable special events. Whether you’re planning a wedding or engagement party, a graduation or a retirement celebration, or one of those milestone  birthdays, I’ll help you make it special.** <br> <br>
+    **I have a knack for making simple ingredients extraordinary. With reasonable prep time and some planning, we can take  your budget and create an event you’ll love.**"
     
 ############################# About Services #######################
 about_services:
   enable: true
-  title: "Services Include.."
+  title: "My Services Include.."
   items:
     # about product item loop 1
     - image: "images/showcase/decor01.JPG"
       title: "Special Event Assistance"
       content:
-        "Think of me as an adjunct to your event planning team. I can assist with layout, food and beverage placement, seating arrangement, and decor."
+        "Think of me as an addition to your event planning team. I can assist with layout, food and beverage placement, seating arrangement, floral and decor."
       button:
         enable: false
         label: "Check Features"
@@ -79,16 +79,16 @@ about_services:
     - image: "images/showcase/floral-07.JPG"
       title: "Floral and Decor"
       content:
-        "Table centerpieces, corsages, stage or photo backgrounds, and specialty arrangements are among the floral arrangements I can provide."
+        "Table centerpieces, bouquets, boutonnieres, corsages, stage or photo backgrounds, and specialty arrangements are among the floral arrangements I can provide."
       button:
         enable: false
         label: "Check Features"
         link: "#/"
     # about product item loop 3
     - image: "images/showcase/graphic-arts-invitations.JPG"
-      title: "Hand crafted paper goods"
+      title: "Special Party Gifts"
       content:
-        "I love creating one-of-a-kind invitation or thank-you cards, and gift wrapping."
+        "I love creating one of a kind gifts for birthday party favors, memorable keepsakes for out-of- town wedding guests, gift baskets, and more."
       button:
         enable: false
         label: "Check Features"
@@ -98,7 +98,7 @@ about_services:
     - image: "images/showcase/place-setting-05.jpg"
       title: "Elegant Dining"
       content:
-        "Let me help you arrange your fine china - or rent some for your event - to create elegant place settings."
+        "Let me help you arrange your fine china - or rent some for your event - to create elegant place settings for special occasions."
       button:
         enable: false
         label: "Check Features"
@@ -106,7 +106,7 @@ about_services:
         
 #################################### Services ########################
 services:
-  enable: true
+  enable: false
   title: "Services"
 
 ############################## Testimonial ##########################
@@ -136,8 +136,8 @@ testimonial:
 
 ################################## Subscription ###################
 subscription:
-  enable: true
-  bg_image: "images/call-to-action.jpg"
-  title: "Contact Meredith"
-  content: "I look forward to discussing your special event needs."
+  enable: false
+  bg_image: "images/cut-the-cake.GIF"
+  title: "Get news and ideas!"
+  content: "Join my email list."
   placeholder: "Your Email Address Here"
