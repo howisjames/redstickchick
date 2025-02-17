@@ -122,16 +122,16 @@ testimonial:
       content: "Meredith was indispensable and creative in assisting with the food and decor of my daughter's engagement party and wedding reception. Both events were beautiful, the charcuterie boards delicious and impressive, and I received numerous compliments from our guests."
 
     # testimonial item loop
-    - name: "Customer Two"
-      designation: "Job Title"
+    - name: "Michelle"
+      designation: ""
       image: "images/testimonials/chick2.png"
-      content: "Our party was a memorable event in large part because of the proactive service, creativity, and cost effectiveness of Meredith's charcuterie boards and floral decor. My husband and I were thrilled with the event and highly recommend Meredith for your memorable events."
+      content: "Meredith has always been very creative. From hosting friends, to birthdays, weddings - you name it - she brings class and creativeness to any party setting."
 
     # testimonial item loop
-    - name: "Customer Three"
-      designation: "Job Title"
+    - name: "Cheryl"
+      designation: "Guest of honor"
       image: "images/testimonials/chick3.png"
-      content: "Meredith adds such a caring and empathetic touch to all of her work. We were thoroughly satisfied and impressed with the floral designs, decor, and event layout guidance she provided as we celebrated my daughter's graduation. You can't go wrong hiring Meredith for your event."
+      content: "Meredith did an amazing job on my 50th birthday party! The balloon arches, photo booth, and custom charcuterie were all first class. Our guests loved it. Meredith is a charming, creative genius!"
 
 
 ################################## Subscription ###################
