@@ -118,20 +118,26 @@ testimonial:
     # testimonial item loop
     - name: "Johanna"
       designation: "Mother of the Bride"
-      image: "images/testimonials/chick1.png"
-      content: "Meredith was indispensable and creative in assisting with the food and decor of my daughter's engagement party and wedding reception. Both events were beautiful, the charcuterie boards delicious and impressive, and I received numerous compliments from our guests."
+      image: "images/testimonials/chick-jo.png"
+      content: "Meredith as the “day of” event coordinator for my daughter’s wedding was better than we could have imagined. I could not have asked for more! From arranging flowers to coordinating the order of events and communications, Meredith over-delivered. My daughter’s wedding was BEAUTIFUL and went off without a hitch."
 
     # testimonial item loop
     - name: "Michelle"
       designation: ""
-      image: "images/testimonials/chick2.png"
+      image: "images/testimonials/chick-michelle.png"
       content: "Meredith has always been very creative. From hosting friends, to birthdays, weddings - you name it - she brings class and creativeness to any party setting."
 
     # testimonial item loop
-    - name: "Cheryl"
+    - name: "Cheryl B."
       designation: "Guest of honor"
-      image: "images/testimonials/chick3.png"
+      image: "images/testimonials/chick-cheryl-b.png"
       content: "Meredith did an amazing job on my 50th birthday party! The balloon arches, photo booth, and custom charcuterie were all first class. Our guests loved it. Meredith is a charming, creative genius!"
+      
+          # testimonial item loop
+    - name: "Cheryl L."
+      designation: "Mother of the groom"
+      image: "images/testimonials/chick-cheryl-l.png"
+      content: "The Red Stick Chick made my daughter-in-law's bridal tea so special. Her beautiful creations took it to the next level. Thank you Meredith!"
 
 
 ################################## Subscription ###################
