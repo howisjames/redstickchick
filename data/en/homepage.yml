@@ -33,7 +33,7 @@ features:
       # feature item loop 3
     - title: "Consultation"
       icon: "tf-ion-chatbubbles"
-      content: "Join me for a consultation. We’ll discuss what you have in mind, your time-frame and budget.."
+      content: "Join me for a consultation. We’ll discuss what you have in mind, your time-frame and budget."
     
   right_side:
     # feature item loop 1
@@ -63,7 +63,7 @@ promo:
 ############################# About Services #######################
 about_services:
   enable: true
-  title: "My Services Include.."
+  title: "My Services Include..."
   items:
     # about product item loop 1
     - image: "images/showcase/decor01.JPG"
@@ -98,7 +98,7 @@ about_services:
     - image: "images/showcase/place-setting-05.jpg"
       title: "Elegant Dining"
       content:
-        "Let me help you arrange your fine china - or rent some for your event - to create elegant place settings for special occasions."
+        "Let me help you arrange your fine china &mdash; or rent some for your event &mdash; to create elegant place settings for special occasions."
       button:
         enable: false
         label: "Check Features"
@@ -119,7 +119,7 @@ testimonial:
     - name: "Johanna"
       designation: "Mother of the Bride"
       image: "images/testimonials/chick-jo.png"
-      content: "Meredith as the “day of” event coordinator for my daughter’s wedding was better than we could have imagined. I could not have asked for more! From arranging flowers to coordinating the order of events and communications, Meredith over-delivered. My daughter’s wedding was BEAUTIFUL and went off without a hitch."
+      content: "As the “day of” event coordinator for my daughter’s wedding, Meredith was better than we could have imagined. I could not have asked for more! From arranging flowers to coordinating the order of events and communications, Meredith over-delivered. My daughter’s wedding was BEAUTIFUL and went off without a hitch."
 
     # testimonial item loop
     - name: "Michelle"
