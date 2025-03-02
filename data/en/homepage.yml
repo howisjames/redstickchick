@@ -17,7 +17,7 @@ banner:
 features:
   enable : true
   title : "Don't Pull Your Hair Out... I Can Help!"
-  image : "images/showcase/charcuterie07.jpg"
+  image : "images/showcase/charcuterie04b.jpg"
 
   left_side:
     # feature item loop 1
@@ -95,7 +95,7 @@ about_services:
         link: "#/"
 
     # about product item loop 4
-    - image: "images/showcase/place-setting-05.jpg"
+    - image: "images/showcase/place-setting-01.jpg"
       title: "Elegant Dining"
       content:
         "Let me help you arrange your fine china &mdash; or rent some for your event &mdash; to create elegant place settings for special occasions."
