@@ -11,3 +11,8 @@ https://kenwheeler.github.io/slick/
 Icons
 The icons are a unique Themefisher Icons font, created by and unique to the template designer Themefisher. They are contained within the theme's static / plugins folder.
 //home/jamestaylor/Dropbox/github/redstickchick/themes/vex-hugo/static/plugins/themefisher-font
+
+Contact Form
+formspark.io
+Login uses James' personal Github account
+

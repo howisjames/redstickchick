@@ -1,13 +1,9 @@
 ---
-title: "Charcuterie Boards"
+title: "Charcuterie boards"
 date: 2025-01-05
 image: "images/showcase/charcuterie04.JPG"
 description : "On-site charcuterie boards prepared for medium to large groups"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Imagine transforming any special occasion into a gourmet experience with beautifully crafted charcuterie boards made fresh onsite! With an eye for detail and a passion for quality ingredients, I bring a personalized touch to every event—whether it’s a wedding, corporate gathering, or intimate celebration. Using an array of artisanal cheeses, cured meats, fresh fruits, nuts, and gourmet accompaniments, I design stunning boards tailored to your theme and guest preferences. Guests get to enjoy the freshest flavors and a beautiful presentation. Elevate your next event with an onsite charcuterie experience that blends artistry, taste, and elegance in every bite!
