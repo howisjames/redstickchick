@@ -103,7 +103,7 @@ about_services:
         enable: false
         label: "Check Features"
         link: "#/"
-        
+
 #################################### Services ########################
 services:
   enable: false
