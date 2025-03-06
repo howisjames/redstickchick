@@ -12,7 +12,7 @@ publishdir  = "public"
 # post excerpt
 summarylength = "20"
 # google analytics
-googleAnalytics = "G-TVGGZY7Q8J" # Ex: UA-123-45
+googleAnalytics = "G-TVGGZY7Q8J"
 # disable language
 disableLanguages = [true] # disable language from here
 favicon = "images/favicon.ico"
@@ -22,7 +22,7 @@ favicon = "images/favicon.ico"
 logo = "images/rsc-logo2.png"
 logo_width = "100px"
 # Meta data
-description = "Events, flowers and nibbles by Meredith"
+description = "Meredith, the Red Stick Chick, loves helping with special events, parties and weddings providing floral arrangements, decor, gift wrapping, delicious charcuterie, and more."
 author = "Meredith Taylor"
 # currency
 currency = "$"
