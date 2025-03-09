@@ -5,7 +5,7 @@ description : "Contact Meredith for a consultation."
 
 office:
   title : "Meredith Taylor"
-  mobile : ""
+  mobile : "(225) 341-2241"
   email : ""
   location : "Baton Rouge, Louisiana"
   content : "Reach out to me for a consultation."
@@ -13,7 +13,7 @@ office:
 # opening hour
 
 opening_hour:
-  title : "Preferred Hours"
+  title : "Consultation Hours"
   day_time:
     - "Weekdays: 9:00 am – 6:00 pm"
     - "Saturday: 10:00 am – 5:00 pm"
