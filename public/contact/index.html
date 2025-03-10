@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="Contact Meredith for a consultation.">
   <meta name="author" content="Meredith Taylor">
-  <meta name="generator" content="Hugo 0.143.1">
+  <meta name="generator" content="Hugo 0.145.0">
   
   
   <meta name="theme-name" content="vex-hugo" />
@@ -21,8 +21,6 @@
   <link rel="stylesheet" href="http://localhost:1313/plugins/themefisher-font/themefisher-font.min.css ">
   
   <link rel="stylesheet" href="http://localhost:1313/plugins/slick/slick.min.css ">
-  
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css ">
   
 
   <!-- Main Stylesheet -->
@@ -42,6 +40,20 @@
   <meta property="og:type" content="website">
 
   
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TVGGZY7Q8J"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-TVGGZY7Q8J');
+        }
+      </script>
 
 </head>
 <body id="body">
@@ -193,7 +205,8 @@
         <h2 class="font-weight-bold mb-4">Meredith Taylor</h2>
         <p>Reach out to me for a consultation.</p>
         <ul class="list-unstyled contact-list">
-          
+           <li class="mb-3"><a href="tel:%28225%29%20341-2241"><i class="tf-ion-ios-telephone mr-2"></i>
+              (225) 341-2241</a></li>
           
            <li class="mb-3"><i class="tf-ion-ios-location mr-2"></i>Baton Rouge, Louisiana
           </li>
@@ -202,7 +215,7 @@
       
       <div class="col-lg-3 col-sm-6 mb-5">
         
-        <h2 class="font-weight-bold mb-4">Preferred Hours</h2>
+        <h2 class="font-weight-bold mb-4">Consultation Hours</h2>
         <ul class="list-unstyled">
           
           <li class="mb-2">Weekdays: 9:00 am – 6:00 pm</li>
@@ -220,13 +233,13 @@
         <h2 class="font-weight-bold mb-4">Contact</h2>
         <form action="https://submit-form.com/TRB21c0FS" method="POST" class="row">
           <div class="col-lg-6 mb-3">
-            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name">
+            <input type="text" class="form-control mb-2" id="name" name="name" placeholder="Your Name"required>
           </div>
           <div class="col-lg-6 mb-3">
-            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email">
+            <input type="email" class="form-control mb-2" id="email" name="email" placeholder="Your Email"required>
           </div>
           <div class="col-12 mb-3">
-            <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"></textarea>
+            <textarea name="message" id="message" class="form-control mb-2" placeholder="Your Message"required></textarea>
           </div>
           <div class="col-12 text-right">
             <button type="submit" value="send" class="btn btn-main btn-main-sm">Send Now</button>
@@ -371,15 +384,11 @@
 
 
 
-
-
 <script src="http://localhost:1313/plugins/jquery/jquery.js"></script>
 
 <script src="http://localhost:1313/plugins/bootstrap/bootstrap.min.js"></script>
 
 <script src="http://localhost:1313/plugins/slick/slick.min.js"></script>
-
-<script src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
 
 
 
