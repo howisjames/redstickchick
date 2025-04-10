@@ -1,7 +1,7 @@
 ---
 title: "Charcuterie boards"
 date: 2025-01-05
-image: "images/showcase/charcuterie16.JPG"
+image: "images/showcase/charcuterie16.jpg"
 description : "On-site charcuterie boards prepared for medium to large groups"
 draft: false
 ---
