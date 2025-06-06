@@ -54,7 +54,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/meredith-working-01.JPG"
+  image: "images/meredith-working-01.jpg"
   title: "Creativity is my jam!"
   content:
     "**I love helping friends and families to enjoy beautiful and memorable special events. Whether you’re planning a wedding or engagement party, a graduation or a retirement celebration, or one of those milestone  birthdays, I’ll help you make it special.** <br> <br>
@@ -63,10 +63,10 @@ promo:
 ############################# About Services #######################
 about_services:
   enable: true
-  title: "My Services Include..."
+  title: "Let me help you with..."
   items:
     # about product item loop 1
-    - image: "images/showcase/decor01.JPG"
+    - image: "images/showcase/decor01.jpg"
       title: "Special Event Assistance"
       content:
         "Think of me as an addition to your event planning team. I can assist with layout, food and beverage placement, seating arrangement, floral and decor."
@@ -76,7 +76,7 @@ about_services:
         link: "#/"
 
     # about product item loop 2
-    - image: "images/showcase/floral-07.JPG"
+    - image: "images/showcase/floral-07.jpg"
       title: "Floral and Decor"
       content:
         "Table centerpieces, bouquets, boutonnieres, corsages, stage or photo backgrounds, and specialty arrangements are among the floral arrangements I can provide."
@@ -85,7 +85,7 @@ about_services:
         label: "Check Features"
         link: "#/"
     # about product item loop 3
-    - image: "images/showcase/gift-wrap01.JPG"
+    - image: "images/showcase/gift-wrap01.jpg"
       title: "Special Party Gifts"
       content:
         "I love creating one of a kind gifts for birthday party favors, memorable keepsakes for out-of- town wedding guests, gift baskets, and more."
@@ -95,7 +95,7 @@ about_services:
         link: "#/"
 
     # about product item loop 4
-    - image: "images/showcase/place-setting01.JPG"
+    - image: "images/showcase/place-setting01.jpg"
       title: "Elegant Dining"
       content:
         "Let me help you arrange your fine china &mdash; or rent some for your event &mdash; to create elegant place settings for special occasions."
@@ -106,7 +106,7 @@ about_services:
 
 #################################### Services ########################
 services:
-  enable: false
+  enable: true
   title: "Services"
 
 ############################## Testimonial ##########################
@@ -143,7 +143,7 @@ testimonial:
 ################################## Subscription ###################
 subscription:
   enable: false
-  bg_image: "images/cut-the-cake.GIF"
+  bg_image: "images/cut-the-cake.gif"
   title: "Get news and ideas!"
   content: "Join my email list."
   placeholder: "Your Email Address Here"

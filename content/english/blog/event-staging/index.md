@@ -1,7 +1,7 @@
 ---
 title: "Event staging"
 date: 2025-01-06
-image: "images/showcase/place-setting-04.JPG"
+image: "images/showcase/place-setting-04.jpg"
 description : "Arrange food, seating, drinks and other event amenities for optimum flow"
 draft: false
 ---

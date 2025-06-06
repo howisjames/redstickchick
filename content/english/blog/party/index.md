@@ -1,7 +1,7 @@
 ---
 title: "Going Away Party"
 date: 2025-01-03
-image: "images/showcase/balloon-selfie-station-05.JPG"
+image: "images/showcase/balloon-selfie-station-05.jpg"
 description : "Selfie and stage background for a going-away party."
 draft: true
 ---

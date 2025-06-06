@@ -1,7 +1,7 @@
 ---
 title: "Prom, dances, and youth socials."
 date: 2025-01-02
-image: "images/showcase/floral-10.JPG"
+image: "images/showcase/floral-10.jpg"
 description : "Bouquets were created for young ladies attending their senior prom."
 draft: false
 ---

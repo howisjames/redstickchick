@@ -6,35 +6,35 @@
     <description>Recent content in My Services Include... on Red Stick Chick</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Floral Decor</title>
+      <link>http://localhost:1313/services/service-floral/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/service-floral/</guid>
+      <description>&lt;p&gt;Flowers make the occasion special. I can help you do it economically, so that you can truly enjoy hosting your event. Images on this page are from high school proms, college graduation parties, bridal showers, and weddings.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Handmade Paper Goods</title>
-      <link>http://localhost:1313/services/service-4/</link>
+      <link>http://localhost:1313/services/service-paper/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/service-4/</guid>
+      <guid>http://localhost:1313/services/service-paper/</guid>
       <description>&lt;p&gt;I like to doodle. And I like to create one-of-a-kind cards and paper goods that convey a warmth not possible from manufactured items. Let&amp;rsquo;s discuss how I can help convey your messages to friends with that extra personal touch.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Floral Decor</title>
-      <link>http://localhost:1313/services/service-3/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/service-3/</guid>
-      <description>&lt;p&gt;Flowers make the occasion special. I can help you do it economically, so that you can truly enjoy hosting your event.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Charcuterie</title>
-      <link>http://localhost:1313/services/service-2/</link>
+      <link>http://localhost:1313/services/service-charcuterie/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/service-2/</guid>
-      <description>&lt;p&gt;I love creating beautiful boards and trays filled with cheeses, cold cuts, crackers, nuts, fruit and garnishes. Let&amp;rsquo;s discuss what can be created for your event. Your guests will love it!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/service-charcuterie/</guid>
+      <description>&lt;p&gt;I love creating beautiful boards and trays filled with cheeses, cold cuts, crackers, nuts, fruit and garnishes. These have pleased guests at weddings, college graduations, and holiday parties - pleasing young and old alike. Let&amp;rsquo;s discuss what can be created for your event. Your guests will love it!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Event Decor</title>
-      <link>http://localhost:1313/services/service-1/</link>
+      <link>http://localhost:1313/services/service-decor/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/service-1/</guid>
-      <description>&lt;p&gt;Describe what I&amp;rsquo;ve created as decorations for special events.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/service-decor/</guid>
+      <description>&lt;p&gt;Unique parties call for unique decorations. I&amp;rsquo;ve created balloon arrangements and photo scenes, floral arrangements, arbors, custom greeting cards, fine china table settings, and charcuterie boards.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
