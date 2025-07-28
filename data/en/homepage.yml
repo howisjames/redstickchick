@@ -123,7 +123,7 @@ testimonial:
 
     # testimonial item loop
     - name: "Michelle"
-      designation: ""
+      designation: "Self-proclaimed socialite (ha, ha)"
       image: "images/testimonials/chick-michelle.png"
       content: "Meredith has always been very creative. From hosting friends, to birthdays, weddings - you name it - she brings class and creativeness to any party setting."
 
@@ -139,6 +139,11 @@ testimonial:
       image: "images/testimonials/chick-cheryl-l.png"
       content: "The Red Stick Chick made my daughter-in-law's bridal tea so special. Her beautiful creations took it to the next level. Thank you Meredith!"
 
+    # testimonial item loop
+    - name: "Kelley"
+      designation: "Sister of the groom"
+      image: "images/testimonials/chick-kelley.png"
+      content: "Thank you Meredith for making this special event at my house so beautiful! You listened intently to what my vision was and also guided me when I wasn't sure. It was the perfect celebration for my brother and new sister-in-law.."
 
 ################################## Subscription ###################
 subscription:
